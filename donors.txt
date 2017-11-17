@@ -1,0 +1,11 @@
+5
+Hi
+50
+Human
+250
+Peter
+100
+Jerry
+650
+Bob
+10
